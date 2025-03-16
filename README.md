@@ -7,7 +7,7 @@ sudo apt-get install -y git g++ make libssl-dev libgflags-dev libprotobuf-dev li
 
 # 克隆项目
 
-git clone --recurse-submodules https://github.com/youarefree123/learning_brpc.git
+git clone https://github.com/youarefree123/learning_brpc.git
 cd learning_brpc
 
 # 编译
